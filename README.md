@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a passionate React Frontend Developer with expertise in building scalable and dynamic web applications. My skillset includes HTML, CSS, JavaScript, React, next js, node js, express js, and mongoDB allowing me to craft intuitive and responsive user interfaces. I thrive on solving complex challenges, collaborating with teams, and continuously learning new technologies to push the boundaries of modern web development
+I'm a passionate Full Stack Developer with expertise in building scalable and dynamic web applications. My skillset includes HTML, CSS, JavaScript, React, next js, node js, express js,SQL , Non-SQL,PostgreSQL and mongoDB allowing me to craft intuitive and responsive user interfaces. I thrive on solving complex challenges, collaborating with teams, and continuously learning new technologies to push the boundaries of modern web development
 
 
 ## 🌐 Socials:
